@@ -1,0 +1,9 @@
+Hi Franz,
+
+After interview, I did some reading on Variance Reduction and Quasi Random numbers. I have created a basic implementation in Python where I compute the Black Scholes price using Mongte Carlo simulations. For Variance Reduction, I used antithetic variates. The resulting MC price was cloaser to the BS price when using Anthetic variates, also, the standard error and exetution time was reduced. I was also working on generating quasi random standard normal numbers using Sobol sequences, but I have encountered a prob in the implementation. I shall share the code for quasi random numbers when I solve the issue.
+
+I have attached the code.
+
+Regards,
+
+Sayantan
